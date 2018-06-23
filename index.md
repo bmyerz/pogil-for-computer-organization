@@ -1,3 +1,6 @@
+---
+title: POGIL Activities for Computer Architecture & Organization
+---
 
 # The activities
 
