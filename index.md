@@ -3,8 +3,6 @@ layout: default
 title: POGIL Activities for Computer Architecture & Organization
 ---
 
-# The activities
-
 [Download](https://iowa-my.sharepoint.com/:f:/g/personal/bdmyers_uiowa_edu/Eruf6jcdgYRHnHdkB4_84ioBAFi6fX7CMHCu5TVWLnCtBw) the activities.
 
 * Bits and numbers
@@ -17,3 +15,6 @@ title: POGIL Activities for Computer Architecture & Organization
 * Sequential logic _(coming soon)_
 * Addressable memory and the add instruction
 * Engineering digital systems
+
+
+Find more Computer Science POGIL activities at [CS-POGIL](http://cspogil.org/Home).
