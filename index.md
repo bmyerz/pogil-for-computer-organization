@@ -1,4 +1,5 @@
 ---
+layout: default
 title: POGIL Activities for Computer Architecture & Organization
 ---
 
