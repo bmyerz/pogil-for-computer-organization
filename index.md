@@ -28,7 +28,7 @@ Funding for this project was generously provided by an [ACM Special Projects Awa
 
 # More information
 
-* Find more Computer Science POGIL activities at [CS-POGIL](http://cspogil.org/Home).
+* Find more Computer Science POGIL activities at [CS-POGIL](http://cspogil.org/Home)
 * [Learn about POGIL](https://pogil.org/)
 
 
