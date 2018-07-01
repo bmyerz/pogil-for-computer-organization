@@ -24,7 +24,7 @@ title: Active Learning Materials for Computer Architecture & Organization
 
 ## Acknowledgement
 
-* Funding for this project was generously provided by an [ACM Special Projects Award](https://sigcse.org/sigcse/programs/special/awards).
+* Funding for this project was generously provided by an [ACM Special Projects Award](https://sigcse.org/sigcse/programs/special/awards). Read the [project final report](SP-report-2017-myers.pdf).
 * These activities are based on an instruction strategy called Process-oriented Guided Inquiry Learning (POGIL). They are not endorsed by the POGIL Project.
 
 # More information
