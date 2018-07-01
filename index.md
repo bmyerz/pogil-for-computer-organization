@@ -1,6 +1,6 @@
 ---
 layout: default
-title: POGIL Activities for Computer Architecture & Organization
+title: Active Learning Activities for Computer Architecture & Organization
 ---
 
 # The activities
@@ -24,7 +24,8 @@ title: POGIL Activities for Computer Architecture & Organization
 
 ## Acknowledgement
 
-Funding for this project was generously provided by an [ACM Special Projects Award](https://sigcse.org/sigcse/programs/special/awards).
+* Funding for this project was generously provided by an [ACM Special Projects Award](https://sigcse.org/sigcse/programs/special/awards).
+* These activities are based on an instruction strategy called Process-oriented Guided Inquiry Learning (POGIL)
 
 # More information
 
