@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Active Learning Activities for Computer Architecture & Organization
+title: Active Learning Materials for Computer Architecture & Organization
 ---
 
 # The activities
