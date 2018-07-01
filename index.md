@@ -10,11 +10,11 @@ title: Active Learning Materials for Computer Architecture & Organization
 * Bits and numbers
 * Memory organization of programs
 * Stored programs
-* Procedure calls _(coming soon)_
-* Combinational logic _(coming soon)_
-* Adders and delay _(coming soon)_
+* Procedure calls _(available soon)_
+* Combinational logic _(available soon)_
+* Adders and delay _(available soon)_
 * Adders, shifters, multipliers
-* Sequential logic _(coming soon)_
+* Sequential logic _(available soon)_
 * Addressable memory and the add instruction
 * Engineering digital systems
 
