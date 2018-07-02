@@ -9,8 +9,8 @@ title: Active Learning Materials for Computer Architecture & Organization
 
 * Bits and numbers
 * Memory organization of programs
-* Stored programs - uses the MIPS Architecture but could be adapted
-* Procedure calls - uses the MIPS Architecture but could be adapted
+* Stored programs
+* Procedure calls
 * Combinational logic
 * Adders and delay
 * Adders, shifters, multipliers
