@@ -14,7 +14,7 @@ title: Active Learning Materials for Computer Architecture & Organization
 * Combinational logic
 * Adders and delay
 * Adders, shifters, multipliers
-* Sequential logic _(available soon)_
+* Sequential logic
 * Addressable memory and the add instruction
 * Engineering digital systems
 
