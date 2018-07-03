@@ -28,6 +28,8 @@ The activities on architecture (Memory Organization of Programs, Stored Program
 
 You can also find the activities on [cspogil.org](http://cspogil.org/AR.+Architecture+and+Organization).
 
+To quickly determine whether an activity might fit into your course, take a look at the [learning objectives](docs/learning_objectives.pdf) for each activity.
+
 ## License
 
 The activities are licensed with the following:
