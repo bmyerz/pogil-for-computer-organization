@@ -40,7 +40,7 @@ The activities are licensed with the following:
 
 # Acknowledgement
 
-* Funding for this project was generously provided by an [ACM Special Projects Award](https://sigcse.org/sigcse/programs/special/awards). Read the [project final report](docs/SP-report-2017-myers.pdf).
+* Funding for this project was generously provided by an [ACM SIGCSE Special Projects Award](https://sigcse.org/sigcse/programs/special/awards). Read the [project final report](docs/SP-report-2017-myers.pdf).
 * These activities are based on an instruction strategy called Process-oriented Guided Inquiry Learning (POGIL). The activities are not endorsed by the POGIL Project.
 
 # More information
