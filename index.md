@@ -7,7 +7,7 @@ title: Active Learning Materials for Computer Architecture & Organization
 
 Surveys of computer science and engineering instructors have indicated that two of the common reasons they do not adopt research-based instruction strategies are preparation time and lack of materials. This lack of materials to support research-based instruction was evident in Computer Architecture & Organization (AR). We are creating, piloting, revising, and sharing activities inspired by Process Oriented Guided Inquiry Learning (POGIL). POGIL is a research-based instruction strategy that comprises self-managed teams, development of process skills, and activities designed based on a theory of instruction called learning cycles.
 
-<img src="img/POGIL_addressable_memory.png" />
+<img src="img/combinational_cycle.png" />
 
 # The activities
 
