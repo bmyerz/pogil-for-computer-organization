@@ -11,6 +11,8 @@ Surveys of computer science and engineering instructors have indicated that two 
 
 # The activities
 
+These activities are under active development and in use with 120 students per semester.
+
 ## Download
 
 [Download](https://iowa-my.sharepoint.com/:f:/g/personal/bdmyers_uiowa_edu/Eruf6jcdgYRHnHdkB4_84ioBAFi6fX7CMHCu5TVWLnCtBw?e=NTzZRY) the activities.
