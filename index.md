@@ -55,7 +55,7 @@ The activities are licensed with the following:
 
 # Publications
 
-* Ham, Yeajin and Myers, Brandon. _Supporting Guided Inquiry with Cooperative Learning in Computer Organization_, SIGCSE 2019 (to appear).
+* Ham, Yeajin and Myers, Brandon. _Supporting Guided Inquiry with Cooperative Learning in Computer Organization_, SIGCSE 2019 (paper to appear).
 * Myers, Brandon. _Active Learning Materials for Computer Architecture and Organization_, SIGCSE 2018 ([Abstract](https://dl.acm.org/citation.cfm?id=3159450.3162262), [Poster](http://homepage.cs.uiowa.edu/~bdmyers/papers/myers_pogil_sigcse2018.pdf))
 
 # Acknowledgement
