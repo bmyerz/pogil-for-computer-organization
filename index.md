@@ -30,6 +30,8 @@ These activities are listed at [cspogil.org](http://cspogil.org/Architecture+and
 
 To quickly determine whether an activity might fit into your course, take a look at the [learning objectives](docs/learning_objectives.pdf) for each activity.
 
+These activities are under active development and in use with 120 students per semester.
+
 ## License
 
 The activities are licensed with the following:
@@ -38,6 +40,7 @@ The activities are licensed with the following:
 
 # Publications
 
+* Ham, Yeajin and Myers, Brandon. _Supporting Guided Inquiry with Cooperative Learning in Computer Organization_, SIGCSE 2019 (to appear).
 * Myers, Brandon. _Active Learning Materials for Computer Architecture and Organization_, SIGCSE 2018 ([Abstract](https://dl.acm.org/citation.cfm?id=3159450.3162262), [Poster](http://homepage.cs.uiowa.edu/~bdmyers/papers/myers_pogil_sigcse2018.pdf))
 
 # Acknowledgement
