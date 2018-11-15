@@ -23,7 +23,8 @@ The activities on architecture (Memory Organization of Programs, Stored Program
 * Adders and delay
 * Adders, shifters, multipliers
 * Sequential logic
-* Addressable memory and the add instruction
+* Addressable memory
+* The add instruction
 * Engineering digital systems
 
 These activities are listed at [cspogil.org](http://cspogil.org/Architecture+and+Organization).
