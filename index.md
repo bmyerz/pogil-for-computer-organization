@@ -11,21 +11,37 @@ Surveys of computer science and engineering instructors have indicated that two 
 
 # The activities
 
-The activities on architecture (Memory Organization of Programs, Stored Programs, Procedure Calls) use MIPS, following textbooks like _Harris & Harris, Digital Design and Computer Architecture, 2nd Ed, 2012_ and _Patterson & Hennessey, Computer Organization and Design MIPS Edition, 5th Ed, 2014_. The activities on digital design could fit into any course on digital design or computer organization.
+## Download
 
 [Download](https://iowa-my.sharepoint.com/:f:/g/personal/bdmyers_uiowa_edu/Eruf6jcdgYRHnHdkB4_84ioBAFi6fX7CMHCu5TVWLnCtBw?e=NTzZRY) the activities.
 
+## Activities on architecture
+
 * Bits and numbers
+* Bytes and memory
+
+## Activities on architecture that are specific to MIPS
+
 * Memory organization of programs
 * Stored programs
 * Procedure calls
+
+## Activities on digital design and microarchitecture
+
 * Combinational logic
 * Adders and delay
 * Adders, shifters, multipliers
 * Sequential logic
 * Addressable memory
-* The add instruction
+* The Add Instruction
 * Engineering digital systems
+
+## Related textbooks
+
+* _Harris & Harris, Digital Design and Computer Architecture, 2nd Ed, 2012_ 
+* _Patterson & Hennessey, Computer Organization and Design MIPS Edition, 5th Ed, 2014_
+
+
 
 These activities are listed at [cspogil.org](http://cspogil.org/Architecture+and+Organization).
 
