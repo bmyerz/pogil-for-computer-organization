@@ -36,18 +36,16 @@ Surveys of computer science and engineering instructors have indicated that two 
 * The Add Instruction
 * Engineering digital systems
 
+## Other information
+
+* These activities are listed at [cspogil.org](http://cspogil.org/Architecture+and+Organization).
+* To quickly determine whether an activity might fit into your course, take a look at the [learning objectives](docs/learning_objectives.pdf) for each activity.
+* These activities are under active development and in use with 120 students per semester.
+
 ## Related textbooks
 
 * _Harris & Harris, Digital Design and Computer Architecture, 2nd Ed, 2012_ 
 * _Patterson & Hennessey, Computer Organization and Design MIPS Edition, 5th Ed, 2014_
-
-
-
-These activities are listed at [cspogil.org](http://cspogil.org/Architecture+and+Organization).
-
-To quickly determine whether an activity might fit into your course, take a look at the [learning objectives](docs/learning_objectives.pdf) for each activity.
-
-These activities are under active development and in use with 120 students per semester.
 
 ## License
 
