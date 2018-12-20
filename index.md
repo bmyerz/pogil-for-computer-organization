@@ -69,6 +69,7 @@ The activities are licensed with the following:
 
 * Find more Computer Science POGIL activities at [CS-POGIL](http://cspogil.org/Home)
 * [Learn about POGIL](https://pogil.org/)
+* Direct questions/comments to [brandon-d-myers@uiowa.edu](mailto:brandon-d-myers@uiowa.edu). Let us know if you are using the materials in your course or need access to auxiliary materials.
 
 
 
