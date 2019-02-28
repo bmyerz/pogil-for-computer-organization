@@ -43,6 +43,7 @@ These activities are under active development and in use with 120 students per s
 * These activities are listed at [cspogil.org](http://cspogil.org/Architecture+and+Organization).
 * To quickly determine whether an activity might fit into your course, take a look at the [learning objectives](docs/learning_objectives.pdf) for each activity.
 * These activities are under active development and in use with 120 students per semester.
+* To date, these have not been certified by the POGIL Project. However, they are the product of revisions made during a [POGIL Writer's Retreat](https://events.pogil.org/event-2783495) and are listed on CS-POGIL http://cspogil.org/Architecture+and+Organization.
 
 ## Related textbooks
 
