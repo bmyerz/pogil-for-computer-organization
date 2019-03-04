@@ -11,7 +11,7 @@ Surveys of computer science and engineering instructors have indicated that two 
 
 # The activities
 
-These activities are under active development and in use with 120 students per semester.
+These activities are under active development and in use with up to 120 students per semester.
 
 ## Download
 
