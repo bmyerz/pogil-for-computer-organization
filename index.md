@@ -17,6 +17,8 @@ These activities are under active development and in use with up to 120 students
 
 [Download](https://iowa-my.sharepoint.com/:f:/g/personal/bdmyers_uiowa_edu/Eruf6jcdgYRHnHdkB4_84ioBHoqowvUTXwhN262rNZ32gQ?e=F2fcZz) the activities.
 
+If you are using these materials in a course or considering using them, please [let us know](mailto:brandon-d-myers@uiowa.edu).
+
 ## Activities on architecture
 
 * Bits and numbers
