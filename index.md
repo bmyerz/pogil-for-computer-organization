@@ -15,7 +15,7 @@ These activities are under active development and in use with 120 students per s
 
 ## Download
 
-[Download](https://iowa-my.sharepoint.com/:f:/g/personal/bdmyers_uiowa_edu/Eruf6jcdgYRHnHdkB4_84ioBAFi6fX7CMHCu5TVWLnCtBw?e=NTzZRY) the activities.
+[Download](https://iowa-my.sharepoint.com/:f:/g/personal/bdmyers_uiowa_edu/Eruf6jcdgYRHnHdkB4_84ioBHoqowvUTXwhN262rNZ32gQ?e=F2fcZz) the activities.
 
 ## Activities on architecture
 
