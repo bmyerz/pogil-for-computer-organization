@@ -1,2 +1,7 @@
 theme: minima
+title: Guided Inquiry for Computer Organization
+description: Materials that you can use to bring guided inquiry into your course on Computer Organization, Computer Architecture, or Hardware/Software interface course. Inspired by POGIL.
+author: Brandon Myers
+plugins:
+  - jekyll-seo-tag
 google_analytics: UA-135630432-1
