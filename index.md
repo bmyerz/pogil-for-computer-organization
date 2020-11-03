@@ -15,7 +15,7 @@ These activities are under active development and in use with up to 120 students
 
 ## Download
 
-[Download](https://iowa-my.sharepoint.com/:f:/g/personal/bdmyers_uiowa_edu/Eruf6jcdgYRHnHdkB4_84ioBHoqowvUTXwhN262rNZ32gQ?e=L7k0Xj) the activities. (if link is expired, let us know and we'll fix ASAP).
+[Download](https://iowa-my.sharepoint.com/:f:/g/personal/bdmyers_uiowa_edu/Eruf6jcdgYRHnHdkB4_84ioBHoqowvUTXwhN262rNZ32gQ?e=OjDua0) the activities. (if link is expired, let us know and we'll fix ASAP).
 
 If you are using these materials in a course or are considering using them, we appreciate if you [let us know](mailto:brandon-d-myers@uiowa.edu).
 
