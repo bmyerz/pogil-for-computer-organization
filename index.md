@@ -40,6 +40,10 @@ If you are using these materials in a course or are considering using them, we a
 * The Add Instruction
 * Engineering digital systems
 
+## What architectures are covered?
+
+Activities above that have to do with architecture use MIPS. I also have ARM versions of these activities, but I have not uploaded them yet. If you are interested, please contact me.
+
 ## Other information
 
 * These activities are listed at [cspogil.org](http://cspogil.org/Architecture+and+Organization).
