@@ -15,9 +15,9 @@ These activities are under active development and in use with up to 120 students
 
 ## Download
 
-[Download](https://iowa-my.sharepoint.com/:f:/g/personal/bdmyers_uiowa_edu/Eruf6jcdgYRHnHdkB4_84ioBHoqowvUTXwhN262rNZ32gQ?e=ISRBYw) the activities. (if link is expired, let us know and we'll fix ASAP).
+[Download](https://drive.google.com/drive/folders/1e8STSiMZJcd6huTtkIcQ_TjU1utY5A6P?usp=sharing) the activities. (if link is broken, let us know and we'll fix ASAP).
 
-If you are using these materials in a course or are considering using them, we appreciate if you [let us know](mailto:brandon-d-myers@uiowa.edu).
+If you are using these materials in a course or are considering using them, we appreciate if you [let us know](mailto:brandonmyers3@acm.org).
 
 ## Activities on architecture
 
@@ -72,7 +72,7 @@ The activities are licensed with the following:
 
 * Find more Computer Science POGIL activities at [CS-POGIL](http://cspogil.org/Home)
 * [Learn about POGIL](https://pogil.org/)
-* Direct questions/comments to [brandon-d-myers@uiowa.edu](mailto:brandon-d-myers@uiowa.edu). Let me know if you are using the materials in your course or need access to auxiliary materials.
+* Direct questions/comments to [brandonmyers3@acm.org](mailto:brandonmyers3@acm.org). Let me know if you are using the materials in your course or need access to auxiliary materials.
 
 
 
